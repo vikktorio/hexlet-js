@@ -1,6 +1,11 @@
 env:
+<<<<<<< HEAD
   es2021: true
   node: true
+=======
+  browser: true
+  es2021: true
+>>>>>>> 1708411cacf896cdf6982c5570ee914ed0ecf441
 extends: airbnb-base
 parserOptions:
   ecmaVersion: latest
